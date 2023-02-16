@@ -19,13 +19,13 @@ github.com/Azure/go-ansiterm/winterm
 # github.com/Focinfi/go-dns-resolver v1.0.0
 ## explicit
 github.com/Focinfi/go-dns-resolver
-# github.com/Microsoft/go-winio v0.5.0
+# github.com/Microsoft/go-winio v0.5.2
 github.com/Microsoft/go-winio
 github.com/Microsoft/go-winio/backuptar
 github.com/Microsoft/go-winio/pkg/guid
 github.com/Microsoft/go-winio/pkg/security
 github.com/Microsoft/go-winio/vhd
-# github.com/Microsoft/hcsshim v0.8.23
+# github.com/Microsoft/hcsshim v0.8.25
 github.com/Microsoft/hcsshim
 github.com/Microsoft/hcsshim/computestorage
 github.com/Microsoft/hcsshim/internal/cow
@@ -51,9 +51,6 @@ github.com/Microsoft/hcsshim/pkg/ociwclayer
 github.com/StackExchange/wmi
 # github.com/VictorLowther/godmi v0.0.0-20190311134151-270258a8252d
 github.com/VictorLowther/godmi
-# github.com/anatol/smart.go v0.0.0-20220218195151-5ee9e8fa73f0
-## explicit
-github.com/anatol/smart.go
 # github.com/aws/aws-sdk-go v1.35.35
 github.com/aws/aws-sdk-go/aws
 github.com/aws/aws-sdk-go/aws/arn
@@ -112,10 +109,10 @@ github.com/bits-and-blooms/bitset
 github.com/cenkalti/backoff
 # github.com/cespare/xxhash/v2 v2.1.1
 github.com/cespare/xxhash/v2
-# github.com/containerd/cgroups v1.0.1
+# github.com/containerd/cgroups v1.0.3
 ## explicit
 github.com/containerd/cgroups/stats/v1
-# github.com/containerd/containerd v1.5.9
+# github.com/containerd/containerd v1.5.18
 ## explicit
 github.com/containerd/containerd
 github.com/containerd/containerd/api/services/containers/v1
@@ -178,7 +175,7 @@ github.com/containerd/containerd/snapshots/proxy
 github.com/containerd/containerd/snapshots/storage
 github.com/containerd/containerd/sys
 github.com/containerd/containerd/version
-# github.com/containerd/continuity v0.1.0
+# github.com/containerd/continuity v0.3.0
 github.com/containerd/continuity/fs
 github.com/containerd/continuity/sysx
 # github.com/containerd/fifo v1.0.0
@@ -389,7 +386,7 @@ github.com/lf-edge/eve/libs/zedUpload/sftputil
 github.com/lf-edge/eve/libs/zedUpload/types
 # github.com/mattn/go-ieproxy v0.0.1
 github.com/mattn/go-ieproxy
-# github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369
+# github.com/matttproud/golang_protobuf_extensions v1.0.4
 github.com/matttproud/golang_protobuf_extensions/pbutil
 # github.com/miekg/dns v1.1.35
 github.com/miekg/dns
@@ -568,7 +565,7 @@ golang.org/x/oauth2/jwt
 # golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 golang.org/x/sync/errgroup
 golang.org/x/sync/semaphore
-# golang.org/x/sys v0.0.0-20220204135822-1c1b9b1eba6a
+# golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
 ## explicit
 golang.org/x/sys/cpu
 golang.org/x/sys/execabs
