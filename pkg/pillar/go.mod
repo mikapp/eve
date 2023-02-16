@@ -4,10 +4,9 @@ go 1.15
 
 require (
 	github.com/Focinfi/go-dns-resolver v1.0.0
-	github.com/anatol/smart.go v0.0.0-20220218195151-5ee9e8fa73f0
 	github.com/bicomsystems/go-libzfs v0.4.0
-	github.com/containerd/cgroups v1.0.1
-	github.com/containerd/containerd v1.5.9
+	github.com/containerd/cgroups v1.0.3
+	github.com/containerd/containerd v1.5.18
 	github.com/containerd/typeurl v1.0.2
 	github.com/containerd/zfs v1.0.0
 	github.com/cshari-zededa/eve-tpm2-tools v0.0.4
@@ -41,7 +40,7 @@ require (
 	github.com/vishvananda/netlink v1.1.1-0.20210924202909-187053b97868
 	golang.org/x/crypto v0.0.0-20220131195533-30dcbda58838
 	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
-	golang.org/x/sys v0.0.0-20220204135822-1c1b9b1eba6a
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
 	google.golang.org/grpc v1.40.0
 )
 
